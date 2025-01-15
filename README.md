@@ -1,4 +1,5 @@
 # block-chain
 
-Name: Joshua
-Age: 4 DAys
+Name:Nnoli Anthony
+occupation: software engineer
+project: blockchain
